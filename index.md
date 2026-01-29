@@ -1,7 +1,7 @@
 
 I'm an ECE student at Princeton interested in energy systems modeling, ML-driven infrastructure, and hardware-software systems.
 
-# What I work on
+## What I work on
 - Digital hardware design & verification (Verilog, SVA)
 - Backend ML pipelines (Python, PyTorch, Julia/JuMP, R)
 - Energy systems & infrastructure modeling
