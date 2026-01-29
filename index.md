@@ -1,6 +1,4 @@
 
-# Hi, I'm Reva
-
 I'm an ECE student at Princeton interested in energy systems modeling, ML-driven infrastructure, and hardware-software systems.
 
 # What I work on
