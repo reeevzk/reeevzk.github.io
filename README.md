@@ -9,7 +9,16 @@ I'm an ECE student at Princeton interested in energy systems modeling, ML-driven
 - Backend ML pipelines (Python, PyTorch, Julia/JuMP)
 - Energy systems & infrastructure modeling
 
-# Featured Projects
+## Featured Projects
+
+### 16-bit Stored-Program Processor (SystemVerilog, FPGA)
+Custom-designed CPU with a full ISA, RTL implementation, and FPGA deployment.
+→ [Repo link]
+
+### Genomics ML: Drought Tolerance Modeling
+Machine learning pipeline for genotype–phenotype association using GWAS-style models.
+AAAS Fellow • Syngenta Community Grant
+
 - Project 1: LSTM-energy demand forecasting (Julia/JuMP)
 - Project 2: 16-bit Stored-program processor (Verilog)
-- Project 3: Identification of genes related to drought resistance in rice (Genomics, R)
+- Project 3: Genomics GWAS ML Pipeline (R)
