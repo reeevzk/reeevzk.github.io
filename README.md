@@ -11,15 +11,15 @@ I'm an ECE student at Princeton interested in energy systems modeling, ML-driven
 
 ## Featured Projects
 
-### 16-bit Stored-Program Processor (SystemVerilog, FPGA)
+### LSTM Forecasting Model for Energy Demand in PJM Grid
+
+
+### 16-bit Stored-Program Processor (Verilog, Xilinx FPGA)
 Custom-designed CPU with a full ISA, RTL implementation, and FPGA deployment.
+→ [Repo Link](https://github.com/reeevzk/PuNC---Princeton-University-Computer)
 
 
-### Genomics ML: Drought Tolerance Modeling
+### Genomics ML: Drought Tolerance Modeling (R)
 Machine learning pipeline for genotype–phenotype association using GWAS-style models.
 AAAS Fellow • Syngenta Community Grant
 → [Repo Link](https://github.com/reeevzk/genomics-gwas-ml-research)
-
-- Project 1: LSTM-energy demand forecasting (Julia/JuMP)
-- Project 2: 16-bit Stored-program processor (Verilog)
-- Project 3: Genomics GWAS ML Pipeline (R)
