@@ -1,4 +1,3 @@
-# reeevzk.github.io
 
 # Hi, I'm Reva
 
@@ -12,7 +11,8 @@ I'm an ECE student at Princeton interested in energy systems modeling, ML-driven
 ## Featured Projects
 
 ### LSTM Forecasting Model for Energy Demand in PJM Grid
-
+Built an end-to-end extension to a Macro-scale energy systems software platform, creating an LSTM that generates multi-scenario demand inputs for MacroEnergy MILP optimization.
+→ [Repo Link](https://github.com/reeevzk/MacroEnergy.jl)
 
 ### 16-bit Stored-Program Processor (Verilog, Xilinx FPGA)
 Custom-designed CPU with a full ISA, RTL implementation, and FPGA deployment.
