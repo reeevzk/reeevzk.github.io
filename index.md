@@ -8,7 +8,7 @@ I'm an ECE student at Princeton interested in energy systems modeling, ML-driven
 
 ## Featured Projects
 
-### LSTM Forecasting Model for Energy Demand in PJM Grid
+### LSTM Forecasting Model for Energy Demand in PJM Grid (Julia, JuMP)
 Built an end-to-end extension to a Macro-scale energy systems software platform, creating an LSTM that generates multi-scenario demand inputs for MacroEnergy MILP optimization. Please refer to the extensions/pjm_forecasting section for my addition.
 → [Repo Link](https://github.com/reeevzk/MacroEnergy.jl)
 
