@@ -1,6 +1,6 @@
 title: "Niyathi's Portfolio"
 description: "ECE + Hardware-Software Integration + ML pipelines"
 url: "https://reeevzk.github.io" # your GitHub Pages URL
-theme: architect                 
+theme: minima                 
 plugins:
   - jekyll-feed 
