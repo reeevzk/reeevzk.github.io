@@ -21,3 +21,8 @@ Custom-designed CPU with a full ISA, RTL implementation, and FPGA deployment.
 Machine learning pipeline for genotype–phenotype association using GWAS-style models.
 AAAS Fellow • Syngenta Community Grant
 → [Repo Link](https://github.com/reeevzk/genomics-gwas-ml-research)
+
+### **Effect of Electrolyte Solution on Ion Exchange Membrane Adsorption** ###
+Studied the electrostatic interactions that semipermeable ion exchange membranes use for water desalination purposes.
+→ [Repo Link](https://github.com/reeevzk/Ion-Exchange-Membrane-Research)
+
